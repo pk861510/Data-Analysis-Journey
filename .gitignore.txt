@@ -1,0 +1,13 @@
+# Ignore Jupyter checkpoints in ANY folder
+.ipynb_checkpoints
+
+# Ignore Anaconda project folders
+anaconda_projects
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (just in case)
+env/
+venv/

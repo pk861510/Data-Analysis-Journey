@@ -1,2 +1,10 @@
-# created by virtualenv automatically
+# Virtual Environment
+Lib/
+Scripts/
+pyvenv.cfg
 
+# Junk files
+CACHEDIR.TAG
+
+# Temporary Data (Optional, if you want to ignore all CSVs)
+# *.csv

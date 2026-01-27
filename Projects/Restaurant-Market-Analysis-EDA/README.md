@@ -5,7 +5,7 @@
 
 ### 📸 Dashboard Preview
 
-![Zomato Marketing Dashboard](/outputPlots/Zomato_Dashboard.PNG)  
+![Zomato Marketing Dashboard](outputPlots/Zomato_Dashboard.PNG)  
 *Interactive dashboard identifying high-performing cities, cuisines, and star restaurants for marketing promotion.*
 
 ---
